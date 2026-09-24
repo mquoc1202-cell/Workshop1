@@ -1,0 +1,5 @@
+Step,Cleaning_Action,Target_Column,Records_Before,Records_Removed,Records_Remaining,Justification
+1,Deduplication,id,769631,107548,662083,Deduplicate by unique entity id.
+2,Remove Missing Titles,title,662083,6,662077,Remove records without valid title.
+3,Validate Release Date,release_date,662077,59455,602622,Convert release_date to datetime and remove invalid dates.
+4,Filter Impossible Financials,"revenue, budget",602622,1,602621,Remove records with impossible negative revenue or budget (< 0).
