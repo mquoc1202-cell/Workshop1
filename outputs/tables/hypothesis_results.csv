@@ -1,5 +1,3 @@
-Pair_Comparison,Variable_1,Variable_2,Pearson_Correlation_r,Sample_Size_N,Interpretation
-Vote Count vs Revenue (Raw),vote_count,revenue,0.7662,11622,Strong Positive Correlation
-Vote Average vs Revenue (Raw),vote_average,revenue,0.1781,11622,Weak Positive Correlation
-Log(Vote Count) vs Log(Revenue),log_vote_count,log_revenue,0.6115,11622,Moderate-Strong Positive Correlation (Log Scale)
-Vote Average vs Log(Revenue),vote_average,log_revenue,0.1944,11622,Weak Positive Correlation (Log Scale)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3c5750019f4dad48db3a5f265c56b1ba6fd0ff9764dfd1e3a05ebaf3fcd0a95
+size 498
